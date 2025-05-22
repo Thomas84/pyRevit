@@ -2,8 +2,15 @@ title:
   ru: Переключить все марки осей сетки на текущем виде
   fr_fr: Basculer toutes les bulles de quadrillage dans la vue
   en_us: Toggle All Grid Bubbles in Current View
+  de_de: Alle oder ausgewählte Rasterköpfe in aktiver Ansicht ein-/ausblenden
 tooltip:
   ru: Переключает все/выделенные марки осей сетки на активном виде.
   fr_fr: Basculer toutes les bulles de quadrillage/sélectionnées dans la vue active
   en_us: Toggle all/selected grid bubbles in the active view
+  de_de: >-
+    Wenn man ein einzelnes oder mehrere Raster 
+    vor dem Ausführen des Befehls auswählt, 
+    dann werden nur die gewählten Elemente geändert. 
+    Wählt man vor dem Ausführen des Befehls nichts aus, 
+    werden die Rasterköpfe von allen Raster ein bzw. ausgeblendet.
 min_revit_version: 2016
